@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyTitle>Neo.SmartContract.Framework</AssemblyTitle>
+    <AssemblyName>Neo.SmartContract.Framework</AssemblyName>
+    <PackageId>Neo.SmartContract.Framework</PackageId>
+    <Description>Neo.SmartContract.Framework</Description>
+  </PropertyGroup>
+
+</Project>
